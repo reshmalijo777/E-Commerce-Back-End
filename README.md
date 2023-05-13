@@ -18,7 +18,7 @@ This is a back end for an e-commerce website that uses the latest technologies s
   ![image](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 Video-Demonstration:
-![Screencastify.webm](https://github.com/reshmalijo777/Ecommerce-Backend/assets/128992593/86bad425-5d2a-484b-8d89-d27e5edacaee)
+-[Screencastify.webm](https://github.com/reshmalijo777/Ecommerce-Backend/assets/128992593/86bad425-5d2a-484b-8d89-d27e5edacaee)
 
 Reference:[Link](https://www.tabnine.com/code/javascript/functions/express/Router/put)
 
