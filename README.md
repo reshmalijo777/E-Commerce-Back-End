@@ -28,7 +28,6 @@ Reference:[Link](https://www.tabnine.com/code/javascript/functions/express/Route
   * [Usage](#usage)
   * [Installation](#installation)
   * [License](#license)
-  * [Contributors](#contributors)
   * [Questions](#Questions)
 
 ## Usage
